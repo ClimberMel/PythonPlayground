@@ -32,6 +32,7 @@ app.py
 #   since the folder is not to be included in the repo nor any contained files
 #   documentation folder is only for me, not to be included with project or github
 #   docs would be where documentation for the project (to be shared) would be placed
+#   files folder may have files to large to comit, so may reqire GitHub LFS
 
 parms/
 output/
@@ -39,6 +40,7 @@ testcode/
 testDocs/
 mycode/
 documentation/
+files/
 
 #   ignore modules starting with test
 #   temporary code can be made and run in normal folders for testing using test* prefix for module names
