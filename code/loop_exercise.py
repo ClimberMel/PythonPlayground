@@ -20,11 +20,12 @@ def factor(myint: int):
     if myint <= 0:
         print(myint, "is not valid input") 
     else:
-        answer = myint
+        answer = 1
         print("answer", answer)
         for f in range(1, myint + 1):
             print("f", f)
             answer = answer * f
+            print("answer", answer)
         print("Fatorial of", myint, "=", answer)
 
 factor(5)
