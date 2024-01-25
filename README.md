@@ -4,4 +4,4 @@
 
 - Great for beginners learning Python
     - all examples will use python 3.8 or newer
-- Learn to collaborate on coding usung GitHub
+- Learn to collaborate on coding usung VS Code and GitHub
